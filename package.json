@@ -1,0 +1,22 @@
+{
+  "name": "grunt-easy-less",
+  "version": "0.8.2",
+  "description": "Easier less task for grunt",
+  "main": "tasks/ezless.js",
+  "dependencies": {
+    "less": "~1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "http://github.com/mach3/grunt-easy-less"
+  },
+  "keywords": [
+    "grunt",
+    "less"
+  ],
+  "author": "mach3",
+  "license": "MIT"
+}
